@@ -3,6 +3,10 @@ This repo is intended to store various StyleGAN2 image generation models trained
 
 Current Models:
 
+<img src="https://i.imgur.com/zBit654.jpg " data-canonical-src="https://i.imgur.com/zBit654.jpg " />
+
 * This Fed Chair Does Not Exist - a StyleGAN2 model trained on images of former US Fed Chairman Benjamin Bernanke scraped from Google Images. Trained on top of model pretrained on the Flickr-Faces-HQ Dataset of photographs of human faces. Trained for ~8 hours on a Nvidia P100 GPU on a Google Cloud VM instance.
+
+<img src="https://i.imgur.com/l0GAO4R.jpg " data-canonical-src="https://i.imgur.com/l0GAO4R.jpg " />
 
 * This JoJo Does Not Exist - a StyleGAN2 model trained on images of characters from the bestselling manga "Jojo's Bizarre Adventure" scraped from the JJBA wiki. Trained on top of a model pretrained on a dataset of general images of anime characters uploaded to the image board Danbooru. Trained for ~72 hours on a Nvidia T4 GPU on a Google Cloud VM instance.
